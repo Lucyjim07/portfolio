@@ -5,7 +5,7 @@
     --background-color: #FFF;
     --btn-color: #0987F2;
     --btn-text-color: #FFF;
-    --proyect-card-bg: #FFFFFF00;
+    --project-card-bg: #FFFFFF00;
     --text-color: #222;
     --form-text-color: #555;
     --footer-text-color: #888;
@@ -15,7 +15,7 @@
     --background-color: #222;
     --btn-color: #fff;
     --btn-text-color: #222;
-    --proyect-card-bg: #fff;
+    --project-card-bg: #fff;
     --text-color: #fff;
     --form-text-color: #fff;
     --footer-text-color: #bbb;
@@ -67,6 +67,7 @@ p {
     font-size: 16px;
     font-weight: 300;
 }
+
 .sectionTitle {
     margin-bottom: 30px;
 }
