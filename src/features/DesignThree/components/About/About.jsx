@@ -3,7 +3,7 @@ import designUten from "../../assets/design-uten.png";
 
 const About = () => {
   return (
-    <div className="about">
+    <div id="about" className="about">
       <div className="about-title">
         <h1>Acerca de mi</h1>
         {/* <img src={designUten} alt="" /> */}
